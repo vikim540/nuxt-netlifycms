@@ -9,5 +9,7 @@
       <h3 class="text-primary-600 dark:text-primary-400 max-w-5xl mx-auto">Latest blog post</h3>
       <posts post-type="blog" :amount="1" />
     </section>
+
+
   </main>
 </template>
