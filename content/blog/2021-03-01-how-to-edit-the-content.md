@@ -16,9 +16,23 @@ formatDate(dateString) {
 
 ![Placeholder Kitten](https://placekitten.com/800/400 "撒大声地")
 
+hahahahhaha
+
+![](/img/ntn-boilerplate-preview-light.png)
+
 ### Steps to take:
 
 1. **Go to admin:** You can navigate to the admin-page by typing in `/admin` after the URL your browser’s omnibox above.
 2. **Navigate to Blog:** In blog you can edit existing blog posts like this one, remove it, or create new ones. They’ll be added to a pull request by Netlify CMS that you merge in the next step by saving.
-3. **Save your changes:** After you have edited the content on the site, you need to save. This will trigger Netlify CMS to merge the PR to the main branch (it will show up in your git log).
+3. **Save your changes:** After you have edited the content on tshe site, you need to save. This will trigger Netlify CMS to merge the PR to the main branch (it will show up in your git log).
 4. **Grab a coffee:** After saving, you have to wait for Netlify to build your main branch (which probably takes 2-5 minutes, depending on your setup). If you’re a control-freak, login to Netlify to watch your build run and see when it is published. You can also publish older commits from there."
+5. 123
+6. 1235
+7. sds
+8. asd
+9. asdas
+10. sdad
+11. adas
+12. dsad
+13. sadasdsd
+14. sd
